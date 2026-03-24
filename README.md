@@ -15,12 +15,12 @@ My goal is to begin a career in government cybersecurity, applying practical ski
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Active Directory and Identity Management      | <a href="https://google.com">Detection Lab</a>|
-| Networking + DNS                              | <a href="https://google.com">Detection Lab</a>|
-| Group Policy and Security Controls            | Active Directory Home Lab|
-| Troubleshooting                               | Active Directory Home Lab|
-| Domain Controller                             | Active Directory Home Lab|
-| SIEM Monitoring                               | Active Directory Home Lab|
+| Active Directory and Identity Management      | <a href="https://github.com/JeremiahSJoseph/Active-Directory-Home-Lab">Active Directory Home Lab</a>|
+| Networking + DNS                              | <a href="https://github.com/JeremiahSJoseph/Active-Directory-Home-Lab">Active Directory Home Lab</a>|
+| Group Policy and Security Controls            | <a href="https://github.com/JeremiahSJoseph/Active-Directory-Home-Lab">Active Directory Home Lab</a>|
+| Troubleshooting                               | <a href="https://github.com/JeremiahSJoseph/Active-Directory-Home-Lab">Active Directory Home Lab</a>|
+| Domain Controller                             | <a href="https://github.com/JeremiahSJoseph/Active-Directory-Home-Lab">Active Directory Home Lab</a>|
+| SIEM Monitoring                               | <a href="https://github.com/JeremiahSJoseph/Active-Directory-Home-Lab">Active Directory Home Lab</a>|
 
 
 ## Tools
