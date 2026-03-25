@@ -53,4 +53,4 @@ My goal is to begin a career in government cybersecurity, applying practical ski
 </div>
 
 ## Projects
-- Active Directory Home Lab
+- <a href="https://github.com/JeremiahSJoseph/Active-Directory-Home-Lab">Active Directory Home Lab</a>
